@@ -53,7 +53,7 @@ Analizar el comportamiento de uso (llamadas, mensajes y minutos de llamada) de u
 
 1. Clona este repositorio:
 ```bash
-[git clone https://github.com/<tu_usuario>/<nombre_repo>.git](https://github.com/ulisesovr/sprint7-final-project)
+(https://github.com/ulisesovr/sprint7-final-project)
 cd <sprint7-final-project>
 ```
 
